@@ -41,7 +41,7 @@ At the bottom of this window, you can select “Show this window at launch” to
 
 ### Create a request
 
-Under **BUILDING BLOCKS**, you can create any kind of [HTTP request](/docs/postman/v6/sending_api_requests/requests).
+Under **BUILDING BLOCKS**, you can create any kind of [HTTP request](/docs/v6/postman/sending_api_requests/requests).
 
 1. In the header toolbar, click the **New** button.
 2. In the **Create New** tab, click "Request".
@@ -71,7 +71,7 @@ After creating the collection, you can save more requests to the collection and 
 
 ### Create an environment
 
-Under **BUILDING BLOCKS**, you  can create an [environment](/docs/postman/v6/environments_and_globals/manage_environments). Environments are a portable scope for variables. While working with APIs, you often need different setups, such as your local machine, the development server, or the production API.  
+Under **BUILDING BLOCKS**, you  can create an [environment](/docs/v6/postman/environments_and_globals/manage_environments). Environments are a portable scope for variables. While working with APIs, you often need different setups, such as your local machine, the development server, or the production API.  
 
 1. In the header toolbar, click the **New** button.
 1. In the **Create New** tab, click "Environment". 
@@ -86,7 +86,7 @@ If you've created other environments, the **MANAGE ENVIRONMENTS** screen appears
 
 ### Create a monitor
 
-Under **ADVANCED**, you can create a [monitor](/docs/postman/v6/monitors/intro_monitors) to run a collection periodically to check its performance and response. You can [set a monitor](/docs/postman/v6/monitors/setting_up_monitor) to run as frequently as every 5 minutes. 
+Under **ADVANCED**, you can create a [monitor](/docs/v6/postman/monitors/intro_monitors) to run a collection periodically to check its performance and response. You can [set a monitor](/docs/v6/postman/monitors/setting_up_monitor) to run as frequently as every 5 minutes. 
 
 [![create screen](https://s3.amazonaws.com/postman-static-getpostman-com/postman-docs/WS-createNew-newbutton-blk.png)](https://s3.amazonaws.com/postman-static-getpostman-com/postman-docs/WS-createNew-newbutton-blk.png)
 
@@ -108,7 +108,7 @@ In the **Next steps** tab, see a list of suggested next steps to get the most ou
 
 ### Create documentation
 
-Under **ADVANCED**, you can create [public or private documentation](/docs/postman/v6/api_documentation/intro_to_api_documentation) and share it in a web page. Postman generates browser-based documentation for your collections, that can be updated automatically in real-time. 
+Under **ADVANCED**, you can create [public or private documentation](/docs/v6/postman/api_documentation/intro_to_api_documentation) and share it in a web page. Postman generates browser-based documentation for your collections, that can be updated automatically in real-time. 
 
 1. In the header toolbar, click the **New** button.
 1. In the **Create New** tab, click "API Documentation".
@@ -126,7 +126,7 @@ In the **Next steps** tab, see a list of suggested next steps to get the most ou
 
 ### Create a mock server
 
-A [mock server](/docs/postman/v6/mock_servers/setting_up_mock) simulates each endpoint in a Postman Collection. You can mock a request and response in Postman before you send the actual request or set up a single endpoint to return the response. 
+A [mock server](/docs/v6/postman/mock_servers/setting_up_mock) simulates each endpoint in a Postman Collection. You can mock a request and response in Postman before you send the actual request or set up a single endpoint to return the response. 
 
 1. In the header toolbar, click the **New** button.
 1. In the **Create New** tab, click “Mock Server”.
@@ -178,4 +178,4 @@ Once the collection is imported into Postman, you can see the collection in the 
 
 [![imported collection](https://s3.amazonaws.com/postman-static-getpostman-com/postman-docs/api-network-nice-pay.png)](https://s3.amazonaws.com/postman-static-getpostman-com/postman-docs/api-network-nice-pay.png)
 
-If you're an API publisher, you can share your API documentation with your users and the rest of the Postman community by [publishing your documentation to the Postman API Network]().
+If you're an API publisher, you can share your API documentation with your users and the rest of the Postman community by [publishing your documentation to the Postman API Network](https://www.getpostman.com/api-network/).
