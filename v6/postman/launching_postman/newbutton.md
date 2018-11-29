@@ -53,7 +53,7 @@ After you save the request to a collection, you can add the URL, method, headers
 
 ### Create a collection
 
-Under **BUILDING BLOCKS**, you can create a [collection](/docs/v6/postman/scripts/intro_to_scripts). 
+Under **BUILDING BLOCKS**, you can create a [collection](/docs/v6/postman/collections/creating_collections). 
 
 1. In the header toolbar, click the **New** button.
 1. In the **Create New** tab, click "Collection".
