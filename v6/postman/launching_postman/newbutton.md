@@ -8,12 +8,12 @@ warning: false
 
 You can use the **New** button to initiate:
 
-* [Requests](#requests)
-* [Collections](#collections)
-* [Environments](#environments)
-* [Monitors](#monitors)
-* [Documentation](#documentation)
-* [Mock_servers](#mock_servers)
+* [Requests](#create-new)
+* [Collections](#create-a-collection)
+* [Environments](#create-an-environment)
+* [Monitors](#create-a-monitor)
+* [Documentation](#create-documentation)
+* [Mock_servers](#create-a-mock-server)
 
 The **New** button also provides access to [templates](#templates) and the [API_network](#API_network).
 
