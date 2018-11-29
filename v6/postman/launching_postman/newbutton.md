@@ -15,7 +15,7 @@ You can use the **New** button to initiate:
 * [Documentation](#create-documentation)
 * [Mock_servers](#create-a-mock-server)
 
-The **New** button also provides access to [templates](#templates) and the [API_network](#API_network).
+The **New** button also provides access to [templates](#templates) and the [API_network](#API-network).
 
 [![new_button](https://s3.amazonaws.com/postman-static-getpostman-com/postman-docs/WS-headerToolbar-blk.png)](https://s3.amazonaws.com/postman-static-getpostman-com/postman-docs/WS-headerToolbar-blk.png)
 
@@ -53,7 +53,7 @@ After you save the request to a collection, you can add the URL, method, headers
 
 ### Create a collection
 
-Under **BUILDING BLOCKS**, you can create a [collection](/docs/postman/v6/collections/creating_collections). 
+Under **BUILDING BLOCKS**, you can create a [collection](/docs/v6/postman/scripts/intro_to_scripts). 
 
 1. In the header toolbar, click the **New** button.
 1. In the **Create New** tab, click "Collection".
